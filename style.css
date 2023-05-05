@@ -41,7 +41,7 @@ header {
 
 .imagenPrincipal {
     height: 80vh;
-    background-image: url("../imagenes/Equipo\ fotográfico.jpg");
+    background-image: url(".//imagenes/procesofoto.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
